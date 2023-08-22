@@ -1,0 +1,45 @@
+
+a{
+    text-decoration: none;
+}
+#topbar-item{
+    color: white;
+}
+.mid1{
+    border: 3px solid lightgreen;
+    background-image: url(imgs/m1.jpg);
+    background-size: contain;
+    background-position:right bottom;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 530px;
+    
+}
+.mid2{
+    border: 3px solid lightgreen;
+    background-image: url(imgs/m2.jpg);
+    background-size: contain;
+    background-position:right bottom;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 530px;
+}
+.mid3{
+    border: 3px solid lightgreen;
+    background-image: url(imgs/m3.jpg);
+    background-size: contain;
+    background-position:right bottom;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 530px;
+}
+.mid4{
+    border: 3px solid lightgreen;
+    background-image: url(imgs/m4.jpg);
+    background-size: contain;
+    background-position:right bottom;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 530px;
+    
+}
